@@ -1,1 +1,1 @@
-# ML-Model-from-DFT-Calculations-for-accurate-predictions-of-Electronic-Structure-of-Materials
+# ML-Model-and-DFT-Calculations-for-accurate-predictions-of-Electronic-Structure-of-Materials
